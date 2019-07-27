@@ -1,0 +1,42 @@
+body {
+  font-family: 'Rubik', sans-serif;/*400-700*/
+
+}
+.icon_fonts {
+  font-family: 'Fascinate', cursive;
+}
+.abajo {
+  bottom: 0;
+  top: auto;
+}
+.subrayado {
+  border-bottom: 1px solid white;
+}
+.subrayado2 {
+  border-bottom: 1px solid gray;
+}
+.centrado {
+    width: 50%;
+    margin: 0 auto;
+}
+.carousel-indicators li {
+  height: 10px;
+  width: 10px;
+  border-radius: 20px;
+  background-color: #6d5f5f;
+}
+.carousel-indicators {
+      top: 100%;
+}
+.carousel-inner .fas,.carousel-inner .fab {
+  color: #751915;
+}
+.burdeo {
+  background-color: #751915;
+}
+.card-body {
+    color: gray;
+}
+.card {
+  border: 0;
+}
