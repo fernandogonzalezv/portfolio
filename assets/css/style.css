@@ -1,6 +1,10 @@
 body {
   font-family: 'Rubik', sans-serif;/*400-700*/
+  font-weight: 400;
 
+}
+.fuerte {
+  font-weight: 700;
 }
 .icon_fonts {
   font-family: 'Fascinate', cursive;
